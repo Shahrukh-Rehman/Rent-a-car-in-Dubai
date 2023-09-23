@@ -1,0 +1,40 @@
+#navbarHeader{
+    background-color: #005085 !important;
+}
+.flagIcon{
+    width: 2%;
+}
+.langIcon{
+    width: 15%;
+}
+#carLogo{
+width: 5%;
+}
+#bgOne{
+    background-image: url(./Assets/Images/Lamboghini-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: 130%;
+    background-size: 50%;
+}
+#searchBar{
+    background-image: url(./Assets/Icons/search.svg);
+    background-repeat: no-repeat;
+    background-position: 2%;
+}
+#pickDate{
+    width: 100%;
+}
+#searchContainer{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 25%;
+    top: 93%;
+}
+#bgTwo{
+    background-color: white !important;
+}
+#remarksCont{
+    padding-left: 15%;
+    padding-right: 15%;
+}
