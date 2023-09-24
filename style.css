@@ -38,3 +38,12 @@ width: 5%;
     padding-left: 15%;
     padding-right: 15%;
 }
+#selectCity{
+width: fit-content;
+}
+.Cars{
+    width: 100%;
+}
+#seeMoreBtn{
+    width:15%;
+}
