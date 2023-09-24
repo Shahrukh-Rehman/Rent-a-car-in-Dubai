@@ -47,3 +47,9 @@ width: fit-content;
 #seeMoreBtn{
     width:15%;
 }
+#imgPro{
+    width: 60%;
+}
+#cardBg{
+    background-color: #fffcf7;
+}
